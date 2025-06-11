@@ -1,4 +1,6 @@
 import { useState } from "react"
+import IngredientsList from "./components/IngredientsList"
+import ClaudeRecipe from "./components/ClaudeRecipe"
 
 export default function Main() {
     const[ingredients, setIngredients] = useState([])
