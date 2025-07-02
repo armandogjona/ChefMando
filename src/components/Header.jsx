@@ -1,4 +1,4 @@
-import chefMandoLogo from "./images/chefMando.png"
+import chefMandoLogo from "../images/chefMando.png"
 
 export default function Header() {
     return(
