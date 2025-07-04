@@ -1,5 +1,5 @@
-import Header from "./src/components/Header"
-import Main from "./src/components/Main"
+import Header from "./components/Header"
+import Main from "./components/Main"
 
 export default function App() {
     return(
